@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiActivityCaro</string>
+    <string name="registrate">Registrate</string>
+    <string name="hint_confirma_Contraseña">Confirma contraseña</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="rControl">R. Control</string>
+    <string name="hint_correoElectronico">Correo electronico</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_apellido_Materno">Apellido materno</string>
+    <string name="hint_apellido_Paterno">Apellido Paterno</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_fecha">F. de nacimiento</string>
+    <string name="nombre">Nombre:</string>
+</resources>
